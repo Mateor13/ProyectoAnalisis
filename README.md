@@ -8,7 +8,7 @@
 - Mireya García
 - Mateo Torres
 ***
-**Dataset y BackUp de SQL Server**
+**Datasets y BackUp de SQL Server**
 
 Los datasets se subieron como lfs (Large Files Storage) y el archivo .bak se dividió en tres partes, dado que, GitHub contiene un límite para subir archivos.
 Para poder volver estos archivos a su versión original es necesario tener instalado el git bash y descargar las tres partes.
