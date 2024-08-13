@@ -1,0 +1,9 @@
+ClimaMundial.csv filter=lfs diff=lfs merge=lfs -text
+BackupProyectoAnalisis.bak filter=lfs diff=lfs merge=lfs -text
+ny_phil.csv filter=lfs diff=lfs merge=lfs -text
+Dataset.2029-2022.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+Dataset.2019-2020_fin.csv filter=lfs diff=lfs merge=lfs -text
+part_ac filter=lfs diff=lfs merge=lfs -text
+part_aa filter=lfs diff=lfs merge=lfs -text
+part_ab filter=lfs diff=lfs merge=lfs -text
